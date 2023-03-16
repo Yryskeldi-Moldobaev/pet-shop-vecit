@@ -1,0 +1,177 @@
+
+*{
+    font-family: 'Poppins', sans-serif; 
+    margin: 0;
+    padding: 0;
+    
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;  
+}
+main{ 
+    margin: 0 auto;
+    color: rgb(52, 93, 255);
+    background-color: rgb(255, 255, 255);
+    border: solid 3px;
+}
+.second_block{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     color: #193A6A;
+}
+.doo{
+    font-size: 20px;  
+    border: solid 1px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px;
+}
+.main{  
+    height: 60px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+.imge{
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+}
+/* .w{
+    width: 110px;
+    margin-left: 100px;
+} */
+/* .e{
+    width: 110px;
+    margin-right: 100px;
+} */
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.text5{
+    text-align: center;
+}
+.bohylol{
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 60px;
+
+    width: 100%;
+    height: 400px;
+    background: url(./img/Desktop\ -\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1{
+    width: 300px;
+}
+.img2{
+    width: 270px;
+}
+.logo-vetic{
+    width: 100px; 
+    margin-top: -12px;
+}
+/* .login{
+    width: 50px;
+}
+.login1{
+    margin-top: 10px; 
+} */
+
+/* .lol-pop{
+    margin-top: 500px; 
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+    color: rgb(244, 242, 242);
+    border-radius: 10px;
+    background-color: rgb(244, 242, 242);
+} 
+.dog-and-cat{
+    width: 100%;
+    height: 200px;
+    background: url(./img/Group\ 13.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-color: #54739e16;
+}*/
+.btn1{
+    font-size: 20px;
+    background-color: #193A6A;
+    color: white;
+    width: 200px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.sn{
+    background-color: #193A6A;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+    margin: 10px;
+}
+.img_block{
+    margin-bottom: 30px;
+}
+
+.wood{
+    padding: 10px;
+    font-size: 15px;
+    background-color: #193A6A;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px ;
+}
+.good{
+    font-size: 20px;
+    color: #193A6A;
+    text-align: center;
+    display: flex; 
+    padding: 10px;
+    justify-content: center; 
+}
+.door{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 1200px;
+}
+.cards-mini{
+    width: 85%;
+}
+.cards{
+    color: black;
+    margin-top: -20px;
+    font-size: 25px;
+    text-align: center;
+}
+.About{
+    margin-top: 10%;
+    margin-left: 12%;
+    width: 1200px;
+}
+.gallery{
+    margin-top: 5%;
+    width: 1100px;
+}
+.footer{
+    margin-top: 7%;
+    margin-left: 10%;
+    width: 1100px;
+}
+.o{
+    color: #193A6A;
+    font-size: 15px;
+}
